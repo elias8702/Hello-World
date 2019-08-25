@@ -16,7 +16,7 @@
 
 [یک درخواست باز کنید](https://github.com/elias8702/Hello-World  "Open a Pull Request")
 
-[در‌خواست‌‌ها را ادغام کنید](https://github.com/elias8702/Hello-World  "Merge Pull Request")
+[در‌خواست‌‌ ادغام](https://github.com/elias8702/Hello-World  "Merge Pull Request")
 
 
 گیت‌هاب چیست؟
@@ -161,7 +161,7 @@
 ![pic5](https://guides.github.com/activities/hello-world/pr-tab.gif "Open a Pull Request for changes to the README")
 
 
-> برروی تب `Pull Request`  در صفحه‌ی   Pull Request کلیک‌ کنید، برروی دکمه سبز `New pull request` کلیک کنید
+> **برروی تب `Pull Request`  در صفحه‌ی   Pull Request کلیک‌ کنید، برروی دکمه سبز `New pull request` کلیک کنید**
 
 >>>
 
@@ -169,7 +169,7 @@
 ![pic6](https://guides.github.com/activities/hello-world/diff.png " submit")
 
 
-> به تغییرات داده شده نگاه کنید و مطئن شوید که می‌خواهید چنین تغییراتی را می‌خواهید ایجاد کنید و برروی دکمه `submit` کلید کنید
+> **به تغییرات داده شده نگاه کنید و مطئن شوید که می‌خواهید چنین تغییراتی را می‌خواهید ایجاد کنید و برروی دکمه `submit` کلید کنید**
 >>>
 
 ![pic7](https://guides.github.com/activities/hello-world/create-pr.png "Create Pull Request")
@@ -180,16 +180,51 @@
 
 ![pic8](https://guides.github.com/activities/hello-world/pr-form.png " description")
 
-> عنوان درخواست خود را شرح دهید و تغییرات را بنویسید.
+> **عنوان درخواست خود را شرح دهید و تغییرات را بنویسید.**
 >>>
 
 
-وقتی پیام خود را تمام کردید، روی `Create pull request` کلید کنید!
+**وقتی پیام خود را تمام کردید، روی `Create pull request` کلید کنید!**
 
 > نکته همچنین از **emoji ** و **gifs** می‌توانید در کامنت‌ها و درخواست‌ها استفاده کنید.
 
+# گام ۵. درخواست ادغام
+
+در این مرحله زمان به اخر رسیده است تاتغییرات را باهم ادغام کنید.  دو شاخه `readme-edits`و `master` ادغام می‌کنیم.
+
+برروی کلید سبز `Merge pull request` کلید کنید
 
 
+برروی ادغام را تایید  می کنم`Confirm merge` کلید کنید
+
+به سوی خذف شاخه بروید زیرا تعییرات اضاف شده است و با دکمه بنفش `Delete branch` کلیک کنید تا شاخه خذف شود.
+
+ 
+![pic9](https://guides.github.com/activities/hello-world/merge-button.png "Merge your Pull Request")
 
 
+## تبریک عرض می‌کنم!!
+
+با یادگیری این اموزش، اموختید که گیت‌هاب را چگونه استفاده کنید.
+
+چیز‌هایی که در این اموزش یاد گرفتید:
+
+[گیت‌هاب چیست؟](https://github.com/elias8702/Hello-World "What is GitHub?")
+
+[ایجاد مخازن](https://github.com/elias8702/Hello-World "Create a Repository")
+
+[ایجاد شاخه](https://github.com/elias8702/Hello-World "Create a Branch")
+
+[کامیت‌کنید](https://github.com/elias8702/Hello-World "Make a Commit") 
+
+[یک درخواست باز کنید](https://github.com/elias8702/Hello-World  "Open a Pull Request")
+
+[در‌خواست‌‌ ادغام](https://github.com/elias8702/Hello-World  "Merge Pull Request")
+
+به حساب کاربری گیت‌هاب خود سری بزنید می‌توانید مربع‌های سهم جدید خود را در گیت‌هاب ببینید.
+
+
+برای یادگیری بیشتر درباره `Pull Requests` درخواست‌ها توصیه می کنیم [اموزش‌های گیت‌هاب](http://guides.github.com/overviews/flow/) را بخوانید. همچنین به [GitHub Explore](http://github.com/explore) که یک پروژه منبع‌باز شرکت کنید.
+
+> نکته: به اموزش‌های [کانال یوتوب](http://youtube.com/githubguides)، [گاید](http://guides.github.com/) و [on-demand](https://services.github.com/on-demand/)برای بهتره استفاده کردن از گیت‌هاب سر بزنید. توصیه من برای فارسی زبان‌ها به [اموزش گیت (Git)](https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git)
 
