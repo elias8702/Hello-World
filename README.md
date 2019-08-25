@@ -19,3 +19,9 @@
 [یک درخواست باز کنید](https://github.com/elias8702/Hello-World  "Open a Pull Request")
 
 [در‌خواست‌‌ها را ادغام کنید](https://github.com/elias8702/Hello-World  "Merge Pull Request")
+
+
+از [لینک](https://guides.github.com/activities/hello-world/#what) من ترجمه شده است.
+
+
+مترجم: **الیاس روحانی**
