@@ -141,4 +141,55 @@
 
 
 
+# باز کردن یک درخواست 
+
+درخواست (Pull Request)
+
+ 
+ویرایش خوبی بود!  اکنون تغییراتی در شاخه مستر کرده‌اید حال وقتش رسیده که درخواست (pull request)کنید.
+
+درخواست‌ها قلب همکاری در گیت‌هاب است هنگامی که درخواستی مید هید یا درخواستی را باز می کنید، دارید تغییرات خود را پیشنهاد میدهید.  از کسانی که این درخواست را کردید، انان برسی می‌کنند و درخواست شما را ادغام می کنند. تغییرات ایجاد شده به رنگ سبز وقرمز نشان داده می‌شود.
+
+به مخض باز کردن یک درخواست می‌توانید بحث را شروع کنید. حتی قبل از اتمام کد.
+
+با استفاده از سیستم [GitHub’s @mention](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar) می‌توانید بازخوردهای مردم و اختلاف زمانی ۱۰ ساعته را ببنید.
+
+حتی می‌توانید درخواست(Pull Request ) را برای مخزن خود بازکنید و انان را ادغام کنید. این روش عالی است برای یاگیری گیت‌هاب و کار وری پروژه‌های گیت‌هاب است.
+
+## باز کردن یک درخواست برای تفییر دادن README
+
+![pic5](https://guides.github.com/activities/hello-world/pr-tab.gif "Open a Pull Request for changes to the README")
+
+
+> برروی تب `Pull Request`  در صفحه‌ی   Pull Request کلیک‌ کنید، برروی دکمه سبز `New pull request` کلیک کنید
+
+>>>
+
+
+![pic6](https://guides.github.com/activities/hello-world/diff.png " submit")
+
+
+> به تغییرات داده شده نگاه کنید و مطئن شوید که می‌خواهید چنین تغییراتی را می‌خواهید ایجاد کنید و برروی دکمه `submit` کلید کنید
+>>>
+
+![pic7](https://guides.github.com/activities/hello-world/create-pr.png "Create Pull Request")
+
+> برروی کلید بزرگ سبز `Create Pull Request` کلیک کنید
+>>>
+
+
+![pic8](https://guides.github.com/activities/hello-world/pr-form.png " description")
+
+> عنوان درخواست خود را شرح دهید و تغییرات را بنویسید.
+>>>
+
+
+وقتی پیام خود را تمام کردید، روی `Create pull request` کلید کنید!
+
+> نکته همچنین از **emoji ** و **gifs** می‌توانید در کامنت‌ها و درخواست‌ها استفاده کنید.
+
+
+
+
+
 
